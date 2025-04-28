@@ -4,13 +4,13 @@ public class Challenge1 {
 
     static class Greeter {
 
-        void greet() {
+        void greett() {
             System.out.println("Hi there");
         }
     }
 
     public static void main(String[] args) {
-        (new Greeter()).greet();
+        (new Greeter()).greett();
     }
 }
 
