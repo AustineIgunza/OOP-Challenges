@@ -1,6 +1,6 @@
 import java.util.*;
 public class Challenge5 {
-
+//Using scanner
     static class HelloTillStop {
         Scanner sc = new Scanner(System.in);
 
