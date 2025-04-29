@@ -1,4 +1,5 @@
 public class Challenge3 {
+    //using if else
     public static void main(String[] args){
 double price = 45.0;
 
