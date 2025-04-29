@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Challenge4 {
     static class InputExample{
             Scanner scan = new Scanner(System.in);
-
+//using scanner
             public void reanNameandAge(){
                 String name;
                 int age;
