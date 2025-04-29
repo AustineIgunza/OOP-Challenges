@@ -1,6 +1,6 @@
 import java.util.*;
 public class Challenge5 {
-//Using scanner
+//Using while loop
     static class HelloTillStop {
         Scanner sc = new Scanner(System.in);
 
