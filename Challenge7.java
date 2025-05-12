@@ -1,6 +1,4 @@
 
-    // File: Challenge7.java
-
     abstract class BankMember {
 
         protected int memberId;
