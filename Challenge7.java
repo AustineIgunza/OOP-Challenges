@@ -61,7 +61,6 @@
         }
     }
 
-    // ✅ Only one public class, name must match file name
     public class Challenge7 {
 
         public static void main(String[] args) {
@@ -69,9 +68,9 @@
             Manager bankManager = new Manager(101, "Alice Johnson", "Loans");
             Customer bankCustomer = new Customer(202, "Bob Smith", "ACC23455");
 
-            bankManager.doService(new ApproveLoan());     // Manager approves a loan
-            bankCustomer.doService(new DepositMoney());   // Customer deposits money
-            bankCustomer.doService(new CheckBalance());   // Customer checks balance
+            bankManager.doService(new ApproveLoan());
+            bankCustomer.doService(new DepositMoney());
+            bankCustomer.doService(new CheckBalance());
         }
     }
 
